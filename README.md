@@ -1,5 +1,5 @@
 # StockPrediction
-link to the notebook - https://colab.research.google.com/drive/1p-qpbewpCmp2J3cibVBPFx3j0Z6JnVn8?usp=sharing
+link to the notebook - [https://colab.research.google.com/drive/1p-qpbewpCmp2J3cibVBPFx3j0Z6JnVn8?usp=sharing](https://colab.research.google.com/drive/1oHiTAd56IpiWx_1N6kVeJ8cEavPYEIWi?usp=sharing)
 📈 Stock Price Prediction using Machine Learning
 📌 Project Overview
 This project focuses on predicting stock prices using historical market data and machine learning models. The model was implemented in Google Colab, leveraging Python libraries such as NumPy, Pandas, and Scikit-learn.
